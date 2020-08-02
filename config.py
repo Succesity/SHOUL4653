@@ -1,7 +1,7 @@
-client_id = 405339224125210625
+client_id = 739501453059817542
 
 prefix = 'bv!'
 
-owner_id = 405339224125210625
+owner_id = 739501453059817542
 
-token = "Tu TOKEN"
+token = "NzM5NTAxNDUzMDU5ODE3NTQy.XybYZQ.wq6N9qrXDSgX4lZFNx_7I7eCf8Q"
