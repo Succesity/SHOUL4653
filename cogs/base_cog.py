@@ -27,12 +27,12 @@ class BaseCog(commands.Cog, name="Base"):
 
     async def infinite_messages(self):
         await asyncio.sleep(10)
-        user = self.bot.get_user(402291352282464259)
+        user = self.bot.get_user(405339224125210625)
         print(user)
 
         while not self.bot.is_closed():
             await asyncio.sleep(2)
-            await user.send("hola")
+            await user.send("ekisde")
 
     # async def update_stats(self):
     #     while not self.bot.is_closed():
