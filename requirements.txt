@@ -1,0 +1,10 @@
+discord.py[voice]
+requests
+selenium
+Pillow
+https://github.com/Nekos-life/nekos.py/archive/master.zip
+googletrans
+youtube-dl==2019.8.13
+beautifulsoup4
+ibm-cos-sdk
+python-chess
